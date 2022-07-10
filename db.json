@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "Appel",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 22222,
+      "comment": "Fresh Fruits",
+      "date": "2022-06-30T21:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Tomato",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 555,
+      "comment": "Fresh",
+      "date": "2022-07-01T21:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 12345,
+      "comment": "Fresh Fruits",
+      "date": "2022-07-22T21:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Panana",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 9870,
+      "comment": "Fresh",
+      "date": "2001-01-26T22:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
